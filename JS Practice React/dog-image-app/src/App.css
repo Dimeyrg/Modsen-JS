@@ -1,0 +1,24 @@
+.dog-container {
+  text-align: center;
+  margin: 20px;
+}
+
+.dog-image {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+.new-image-button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.new-image-button:hover {
+  background-color: #0056b3;
+}
